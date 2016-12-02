@@ -1,9 +1,9 @@
 body {
-            font-family: Lucida-Grande, sans-serif;
+            font-family: Optima
         }
         
         h1, h2, h3, h4, h5{
-            font-family: Optima, "Palatino Linotype", serif;
+            font-family: Optima;
             color: #801515;
         }
         
@@ -73,7 +73,6 @@ nav a:hover {
             text-align: center;
             width: 70%;
             margin: 0 auto;
-            font-family: 
         }
         #relax, #rush {
             display: flex;
@@ -113,11 +112,12 @@ nav a:hover {
             border: 2px solid #FFAAAA;
             margin-left: 7px;
         }
-}
-#booking, #encounters, #highlights, #blogtitle {
-    color: #801515;
-    font-family: Optima; "Palatino Linotype", serif
-}
+
 .bt {
     font-size: 1.5em;
+}
+
+#booking, #highlights, #encounters {
+    color: #801515;
+    font-family: Optima;
 }
