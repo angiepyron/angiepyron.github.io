@@ -2,7 +2,7 @@ body {
             font-family: Optima
         }
         
-        h1, h2, h3, h4, h5{
+       , h2, h3, h4, h5{
             font-family: Optima;
             color: #801515;
         }
@@ -114,10 +114,26 @@ nav a:hover {
         }
 
 .bt {
-    font-size: 1.5em;
+    font-size: 1.9em;
+    margin-top: -150px;
+    color: #FFAAAA;
+    font-family: Optima;
 }
 
 #booking, #highlights, #encounters {
     color: #801515;
     font-family: Optima;
+}
+#highlights {
+    background-color: #FFAAAA;
+}
+.eheader {
+    font-size: 1.4em;
+}
+.hheader {
+    font-size: 1.1em;
+}
+#booking {
+    margin-top: -70px;
+    
 }
