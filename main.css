@@ -101,6 +101,7 @@ nav a:hover {
             margin: .5em;
         }
         
+
         #top {
             width: 100%;
             margin-top: -25px
@@ -136,4 +137,9 @@ nav a:hover {
 #booking {
     margin-top: -70px;
     
+}
+#salmon {
+    float: right;
+    margin-top: 100px;
+    padding: 5px;
 }
