@@ -121,9 +121,14 @@ nav a:hover {
     font-family: Optima;
 }
 
-#booking, #highlights, #encounters {
+#booking, #highlights, #encounters, #pricing {
     color: #801515;
     font-family: Optima;
+}
+#booking2 {
+    color: #801515; 
+    font-family: Optima;
+    background-color: #FFAAAA;
 }
 #highlights {
     background-color: #FFAAAA;
@@ -134,7 +139,7 @@ nav a:hover {
 .hheader {
     font-size: 1.1em;
 }
-#booking {
+#booking, #pricing {
     margin-top: -70px;
     
 }
@@ -142,4 +147,13 @@ nav a:hover {
     float: right;
     margin-top: 100px;
     padding: 5px;
+}
+#booking, #booking2 {
+    display: flex;
+}
+#pad {
+    color: #801515;
+    font-family: Optima;
+    font-size: 1.4em;
+    margin-top: -85px
 }
