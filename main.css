@@ -125,7 +125,7 @@ nav a:hover {
     color: #801515;
     font-family: Optima;
 }
-#booking2 {
+#booking2, #booking {
     color: #801515; 
     font-family: Optima;
     background-color: #FFAAAA;
@@ -155,9 +155,14 @@ nav a:hover {
     color: #801515;
     font-family: Optima;
     font-size: 1.4em;
-    margin-top: -85px
+    margin-top: -85px;
+    padding: 10px;
+    margin-bottom: 45px
 }
 #colorado {
      width: 100%; 
     
+}
+#booking2 {
+    margin-top: -50px;
 }
